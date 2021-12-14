@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming, math and AI 
 - 🌱 I’m currently learning linguagem C, I'm beginner.
 - 💞️ I’m looking to collaborate on project in C.
-- 📫 My email is maria.larissa@aluno.ufca.edu.br and my insta is @cachos_lary.
 <div align="center">
   <a href="https://github.com/maria-larissa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-larissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -12,7 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="maria-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 </div>
-    ##
+
+##
  
 <div> 
   <a href="https://instagram.com/cachos_lary" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
