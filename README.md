@@ -5,10 +5,13 @@
 - 📫 My email is maria.larissa@aluno.ufca.edu.br and my insta is @cachos_lary.
 <div align="center">
   <a href="https://github.com/maria-larissa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-larissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-larissa&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="maria-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+</div>
     ##
  
 <div> 
@@ -20,7 +23,7 @@
 --->
   <a href="https://www.linkedin.com/in/maria-larissa-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/maria-larissa/maria-larissa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!---
