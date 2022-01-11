@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @maria-larissa
-- 👀 I’m interested in programming, math and AI 
-- 🌱 I’m currently learning linguagem C, I'm beginner.
-- 💞️ I’m looking to collaborate on project in C.
+## 👋Seja benvindo(a)! Eu sou a Larissa estudante de tecnologia. 💟 👩‍💻
 <div align="center">
   <a href="https://github.com/maria-larissa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-larissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
