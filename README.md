@@ -24,8 +24,6 @@
   <a href = "mailto:marialarissayuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-larissa-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <a href="https://www.linkedin.com/in/maria-larissa-andrade/" target="_blank"><img src="https://img.shields.io/static/v1?label=Linguas&message=INGLEs&message=Avançado&color=<green>" target="_blank"></a> 
-  
   
 </div>
   
