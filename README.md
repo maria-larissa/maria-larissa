@@ -1,4 +1,4 @@
-## 👋WELCOME! I'm Larissa and I'm a tecnology student. 💟 👩‍💻
+## 👋WELCOME! I'm Larissa and I'm a frontend developer. 💟 👩‍💻
 
 <div align="center">
   <a href="https://github.com/maria-larissa">
